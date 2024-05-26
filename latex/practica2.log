@@ -1,0 +1,629 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.10.5)  20 FEB 2024 19:45
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**practica2.tex
+(./practica2.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-01-21>
+(/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip49
+\enit@outerparindent=\dimen141
+\enit@toks=\toks17
+\enit@inbox=\box50
+\enit@count@id=\count194
+\enitdp@description=\count195
+)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count196
+\Gm@cntv=\count197
+\c@Gm@tempcnt=\count198
+\Gm@bindingoffset=\dimen142
+\Gm@wd@mp=\dimen143
+\Gm@odd@mp=\dimen144
+\Gm@even@mp=\dimen145
+\Gm@layoutwidth=\dimen146
+\Gm@layoutheight=\dimen147
+\Gm@layouthoffset=\dimen148
+\Gm@layoutvoffset=\dimen149
+\Gm@dimlist=\toks18
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+Package: adjustbox 2020/08/19 v1.3 Adjusting TeX boxes (trim, clip, ...)
+
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks19
+\XKV@tempa@toks=\toks20
+)
+\XKV@depth=\count199
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/trimclip.sty
+Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
+
+(/usr/share/texlive/texmf-dist/tex/latex/collectbox/collectbox.sty
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box51
+)
+\tc@llx=\dimen150
+\tc@lly=\dimen151
+\tc@urx=\dimen152
+\tc@ury=\dimen153
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen154
+\adjbox@Height=\dimen155
+\adjbox@Depth=\dimen156
+\adjbox@Totalheight=\dimen157
+\adjbox@pwidth=\dimen158
+\adjbox@pheight=\dimen159
+\adjbox@pdepth=\dimen160
+\adjbox@ptotalheight=\dimen161
+
+(/usr/share/texlive/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count266
+)
+(/usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box52
+\sift@deathcycles=\count267
+\@vwid@loff=\dimen162
+\@vwid@roff=\dimen163
+))
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2021/07/05 v2.14 Sectioning titles
+\ttl@box=\box53
+\beforetitleunit=\skip50
+\aftertitleunit=\skip51
+\ttl@plus=\dimen164
+\ttl@minus=\dimen165
+\ttl@toksa=\toks21
+\titlewidth=\dimen166
+\titlewidthlast=\dimen167
+\titlewidthfirst=\dimen168
+)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count268
+\float@exts=\toks22
+\float@box=\box54
+\@float@everytoks=\toks23
+\@floatcapt=\box55
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count269
+\l__pdf_internal_box=\box56
+)
+(./practica2.aux)
+\openout1 = `practica2.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count270
+\scratchdimen=\dimen169
+\scratchbox=\box57
+\nofMPsegments=\count271
+\nofMParguments=\count272
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count273
+\MPscratchDim=\dimen170
+\MPnumerator=\count274
+\makeMPintoPDFobject=\count275
+\everyMPtoPDFconversion=\toks25
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 422.52252pt, 89.62709pt)
+* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=422.52252pt
+* \textheight=591.5302pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-7.86334pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<images//logo.jpg, id=1, 632.3625pt x 321.2pt>
+File: images//logo.jpg Graphic file (type jpg)
+<use images//logo.jpg>
+Package pdftex.def Info: images//logo.jpg  used on input line 18.
+(pdftex.def)             Requested size: 126.75804pt x 64.38098pt.
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./images//logo.jpg>]
+(./practica2.toc)
+\tf@toc=\write3
+\openout3 = `practica2.toc'.
+
+ [1
+
+]
+Chapter 1.
+
+Overfull \hbox (3.9818pt too wide) in paragraph at lines 39--39
+|[]\OT1/cmr/bx/n/24.88 Configuraci^^Son b^^Sasica de un servi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--42
+
+ []
+
+<images//enunciado_1.png, id=15, 1389.19pt x 901.3675pt>
+File: images//enunciado_1.png Graphic file (type png)
+<use images//enunciado_1.png>
+Package pdftex.def Info: images//enunciado_1.png  used on input line 45.
+(pdftex.def)             Requested size: 295.76447pt x 191.90596pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--57
+
+ []
+
+[2
+
+ <./images//enunciado_1.png>]
+<images//ej1_1.png, id=22, 821.0675pt x 263.98625pt>
+File: images//ej1_1.png Graphic file (type png)
+<use images//ej1_1.png>
+Package pdftex.def Info: images//ej1_1.png  used on input line 58.
+(pdftex.def)             Requested size: 211.26126pt x 67.92183pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--65
+
+ []
+
+<images//ej2_1.jpg, id=23, 846.16125pt x 1130.2225pt>
+File: images//ej2_1.jpg Graphic file (type jpg)
+<use images//ej2_1.jpg>
+Package pdftex.def Info: images//ej2_1.jpg  used on input line 66.
+(pdftex.def)             Requested size: 253.51608pt x 338.62097pt.
+[3 <./images//ej1_1.png> <./images//ej2_1.jpg>]
+Chapter 2.
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--78
+
+ []
+
+<images//ej1_1_2.png, id=28, 900.36375pt x 274.02374pt>
+File: images//ej1_1_2.png Graphic file (type png)
+<use images//ej1_1_2.png>
+Package pdftex.def Info: images//ej1_1_2.png  used on input line 79.
+(pdftex.def)             Requested size: 253.51608pt x 77.15678pt.
+<images//ej1_2_2.jpg, id=29, 894.34125pt x 274.02374pt>
+File: images//ej1_2_2.jpg Graphic file (type jpg)
+<use images//ej1_2_2.jpg>
+Package pdftex.def Info: images//ej1_2_2.jpg  used on input line 80.
+(pdftex.def)             Requested size: 253.51608pt x 77.67526pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--83
+
+ []
+
+<images//ej1_3_2.jpg, id=30, 799.98875pt x 233.87375pt>
+File: images//ej1_3_2.jpg Graphic file (type jpg)
+<use images//ej1_3_2.jpg>
+Package pdftex.def Info: images//ej1_3_2.jpg  used on input line 84.
+(pdftex.def)             Requested size: 253.51608pt x 74.11311pt.
+[4
+
+ <./images//ej1_1_2.png> <./images//ej1_2_2.jpg> <./images//ej1_3_2.jpg>]
+<images//ej1_4_2.png, id=35, 1791.69376pt x 236.885pt>
+File: images//ej1_4_2.png Graphic file (type png)
+<use images//ej1_4_2.png>
+Package pdftex.def Info: images//ej1_4_2.png  used on input line 91.
+(pdftex.def)             Requested size: 422.52252pt x 55.85954pt.
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 91--92
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--96
+
+ []
+
+<images//ej2_2.jpg, id=36, 523.9575pt x 233.87375pt>
+File: images//ej2_2.jpg Graphic file (type jpg)
+<use images//ej2_2.jpg>
+Package pdftex.def Info: images//ej2_2.jpg  used on input line 97.
+(pdftex.def)             Requested size: 253.51608pt x 113.1574pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
+
+ []
+
+<images//ej4_1_2.jpg, id=37, 897.3525pt x 297.11pt>
+File: images//ej4_1_2.jpg Graphic file (type jpg)
+<use images//ej4_1_2.jpg>
+Package pdftex.def Info: images//ej4_1_2.jpg  used on input line 105.
+(pdftex.def)             Requested size: 253.51608pt x 83.93826pt.
+<images//ej4_2_2.png, id=38, 901.3675pt x 297.11pt>
+File: images//ej4_2_2.png Graphic file (type png)
+<use images//ej4_2_2.png>
+Package pdftex.def Info: images//ej4_2_2.png  used on input line 106.
+(pdftex.def)             Requested size: 253.51608pt x 83.56198pt.
+[5 <./images//ej1_4_2.png> <./images//ej2_2.jpg> <./images//ej4_1_2.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 112--114
+
+ []
+
+<images//ej5_1_2.png, id=43, 1692.3225pt x 171.64125pt>
+File: images//ej5_1_2.png Graphic file (type png)
+<use images//ej5_1_2.png>
+Package pdftex.def Info: images//ej5_1_2.png  used on input line 118.
+(pdftex.def)             Requested size: 422.52252pt x 42.85257pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--123
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--142
+
+ []
+
+[6 <./images//ej4_2_2.png> <./images//ej5_1_2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 158--160
+
+ []
+
+<images//ej5_4_2.png, id=50, 764.8575pt x 91.34125pt>
+File: images//ej5_4_2.png Graphic file (type png)
+<use images//ej5_4_2.png>
+Package pdftex.def Info: images//ej5_4_2.png  used on input line 164.
+(pdftex.def)             Requested size: 295.76447pt x 35.3205pt.
+<images//ej5_5_2.png, id=51, 668.4975pt x 222.8325pt>
+File: images//ej5_5_2.png Graphic file (type png)
+<use images//ej5_5_2.png>
+Package pdftex.def Info: images//ej5_5_2.png  used on input line 165.
+(pdftex.def)             Requested size: 295.76447pt x 98.59062pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--168
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--172
+
+ []
+
+[7 <./images//ej5_4_2.png> <./images//ej5_5_2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 174--176
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--180
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--184
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 186--187
+
+ []
+
+<images//ej5_2_2.png, id=57, 870.25125pt x 113.42375pt>
+File: images//ej5_2_2.png Graphic file (type png)
+<use images//ej5_2_2.png>
+Package pdftex.def Info: images//ej5_2_2.png  used on input line 190.
+(pdftex.def)             Requested size: 253.51608pt x 33.04088pt.
+<images//ej5_3_2.png, id=58, 878.28125pt x 118.4425pt>
+File: images//ej5_3_2.png Graphic file (type png)
+<use images//ej5_3_2.png>
+Package pdftex.def Info: images//ej5_3_2.png  used on input line 191.
+(pdftex.def)             Requested size: 253.51608pt x 34.1884pt.
+[8 <./images//ej5_2_2.png> <./images//ej5_3_2.png>]
+Chapter 3.
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--203
+
+ []
+
+<images//ej1_3.jpg, id=64, 898.35625pt x 458.71375pt>
+File: images//ej1_3.jpg Graphic file (type jpg)
+<use images//ej1_3.jpg>
+Package pdftex.def Info: images//ej1_3.jpg  used on input line 206.
+(pdftex.def)             Requested size: 253.51608pt x 129.44688pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--212
+
+ []
+
+<images//ej2_1_3.png, id=65, 533.995pt x 835.12pt>
+File: images//ej2_1_3.png Graphic file (type png)
+<use images//ej2_1_3.png>
+Package pdftex.def Info: images//ej2_1_3.png  used on input line 216.
+(pdftex.def)             Requested size: 190.13383pt x 297.3553pt.
+<images//ej2_2_3.png, id=66, 533.995pt x 835.12pt>
+File: images//ej2_2_3.png Graphic file (type png)
+<use images//ej2_2_3.png>
+Package pdftex.def Info: images//ej2_2_3.png  used on input line 219.
+(pdftex.def)             Requested size: 190.13383pt x 297.3553pt.
+[9
+
+ <./images//ej1_3.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 222--226
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--234
+
+ []
+
+[10 <./images//ej2_1_3.png> <./images//ej2_2_3.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 236--238
+
+ []
+
+<images//ej4_1_3.png, id=75, 1917.1625pt x 297.11pt>
+File: images//ej4_1_3.png Graphic file (type png)
+<use images//ej4_1_3.png>
+Package pdftex.def Info: images//ej4_1_3.png  used on input line 242.
+(pdftex.def)             Requested size: 422.52252pt x 65.47774pt.
+<images//ej4_2_3.png, id=76, 1992.44376pt x 235.88126pt>
+File: images//ej4_2_3.png Graphic file (type png)
+<use images//ej4_2_3.png>
+Package pdftex.def Info: images//ej4_2_3.png  used on input line 243.
+(pdftex.def)             Requested size: 422.52252pt x 50.01881pt.
+[11 <./images//ej4_1_3.png> <./images//ej4_2_3.png>]
+Chapter 4.
+<images//ej1_1_4.jpg, id=82, 490.83376pt x 291.0875pt>
+File: images//ej1_1_4.jpg Graphic file (type jpg)
+<use images//ej1_1_4.jpg>
+Package pdftex.def Info: images//ej1_1_4.jpg  used on input line 256.
+(pdftex.def)             Requested size: 190.13383pt x 112.75525pt.
+<images//ej1_2_4.png, id=83, 497.86pt x 294.09875pt>
+File: images//ej1_2_4.png Graphic file (type png)
+<use images//ej1_2_4.png>
+Package pdftex.def Info: images//ej1_2_4.png  used on input line 259.
+(pdftex.def)             Requested size: 190.13383pt x 112.31963pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--264
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 265--266
+
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 267.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 267.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 267.
+<images//ej2_1_4.jpg, id=84, 895.345pt x 301.125pt>
+File: images//ej2_1_4.jpg Graphic file (type jpg)
+<use images//ej2_1_4.jpg>
+Package pdftex.def Info: images//ej2_1_4.jpg  used on input line 268.
+(pdftex.def)             Requested size: 169.00642pt x 56.83757pt.
+<images//ej2_2_4.png, id=85, 901.3675pt x 301.125pt>
+File: images//ej2_2_4.png Graphic file (type png)
+<use images//ej2_2_4.png>
+Package pdftex.def Info: images//ej2_2_4.png  used on input line 268.
+(pdftex.def)             Requested size: 169.00642pt x 56.46078pt.
+<images//ej2_3_4.png, id=86, 908.39375pt x 269.005pt>
+File: images//ej2_3_4.png Graphic file (type png)
+<use images//ej2_3_4.png>
+Package pdftex.def Info: images//ej2_3_4.png  used on input line 269.
+(pdftex.def)             Requested size: 169.00642pt x 50.04425pt.
+<images//ej2_4_4.png, id=87, 908.39375pt x 277.035pt>
+File: images//ej2_4_4.png Graphic file (type png)
+<use images//ej2_4_4.png>
+Package pdftex.def Info: images//ej2_4_4.png  used on input line 269.
+(pdftex.def)             Requested size: 169.00642pt x 51.53812pt.
+[12
+
+ <./images//ej1_1_4.jpg> <./images//ej1_2_4.png> <./images//ej2_1_4.jpg> <./ima
+ges//ej2_2_4.png> <./images//ej2_3_4.png> <./images//ej2_4_4.png>]
+Chapter 5.
+
+Underfull \hbox (badness 10000) in paragraph at lines 283--285
+
+ []
+
+<images//ej3_5.jpg, id=96, 546.04pt x 296.10625pt>
+File: images//ej3_5.jpg Graphic file (type jpg)
+<use images//ej3_5.jpg>
+Package pdftex.def Info: images//ej3_5.jpg  used on input line 286.
+(pdftex.def)             Requested size: 253.51608pt x 137.47562pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 288--291
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--294
+
+ []
+
+[13
+
+ <./images//ej3_5.jpg>]
+<images//ej4_5.png, id=100, 737.75626pt x 429.605pt>
+File: images//ej4_5.png Graphic file (type png)
+<use images//ej4_5.png>
+Package pdftex.def Info: images//ej4_5.png  used on input line 295.
+(pdftex.def)             Requested size: 253.51608pt x 147.6239pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 297--300
+
+ []
+
+<images//ej5_1_5.png, id=101, 850.17625pt x 429.605pt>
+File: images//ej5_1_5.png Graphic file (type png)
+<use images//ej5_1_5.png>
+Package pdftex.def Info: images//ej5_1_5.png  used on input line 301.
+(pdftex.def)             Requested size: 253.51608pt x 128.10242pt.
+<images//ej5_2_5.png, id=102, 501.875pt x 297.11pt>
+File: images//ej5_2_5.png Graphic file (type png)
+<use images//ej5_2_5.png>
+Package pdftex.def Info: images//ej5_2_5.png  used on input line 302.
+(pdftex.def)             Requested size: 253.51608pt x 150.08243pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--306
+
+ []
+
+[14 <./images//ej4_5.png> <./images//ej5_1_5.png> <./images//ej5_2_5.png>]
+[15] (./practica2.aux) ) 
+Here is how much of TeX's memory you used:
+ 4553 strings out of 478287
+ 74516 string characters out of 5849289
+ 376346 words of memory out of 5000000
+ 22714 multiletter control sequences out of 15000+600000
+ 475448 words of font info for 48 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,10n,62p,361b,558s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1
+.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><
+/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf/fonts/ty
+pe1/public/cm-super/sfrm1200.pfb>
+Output written on practica2.pdf (16 pages, 2929361 bytes).
+PDF statistics:
+ 140 PDF objects out of 1000 (max. 8388607)
+ 57 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 156 words of extra memory for PDF output out of 10000 (max. 10000000)
+
